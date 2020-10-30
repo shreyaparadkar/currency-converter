@@ -1,4 +1,11 @@
 # currency-converter
+Currency conversion web-app created to learn the basics of Vue.js.<br/>
+Used Bootstrap-vue to make a simple UI.<br/>
+Used Vue-chartjs to create conversion rates chart.
+<br/>
+#### Deployed to firebase:
+https://currency-converterbbdb7.firebaseapp.com/
+<br/><br/>
 
 ## Project setup
 
@@ -23,7 +30,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
